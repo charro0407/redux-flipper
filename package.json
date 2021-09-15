@@ -28,7 +28,7 @@
   },
   "peerDependencies": {
     "react-native": "^0.65.0",
-    "react-native-flipper": "^0.100.0",
+    "react-native-flipper": "^0.108.0",
     "redux": "^4"
   },
   "devDependencies": {
