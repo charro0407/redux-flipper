@@ -27,7 +27,7 @@
     "dev": "tsc -w"
   },
   "peerDependencies": {
-    "react-native": "^0.65.0",
+    "react-native": "^0.66.0",
     "react-native-flipper": "^0.108.0",
     "redux": "^4"
   },
